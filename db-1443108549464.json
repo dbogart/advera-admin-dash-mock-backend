@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "firstName": "Buford",
+      "lastName": "Swift",
+      "email": "Ethyl.Howe@hotmail.com",
+      "userGroupId": 5,
+      "expiration": "2016-07-20T22:42:15.993Z",
+      "type": "Trial",
+      "status": "Active",
+      "userEnabled": false,
+      "portfolioEnabled": false,
+      "is_deleted": false,
+      "portfolioNameType": "Portfolio",
+      "password": "UzpCO36qgMF04J0"
+    }
+  ],
+  "userGroups": [
+    {
+      "id": 0,
+      "name": "Collier LLC",
+      "salesforceUrl": "http://salesforce.com/93023",
+      "groupEnabled": false
+    }
+  ]
+}
